@@ -11,4 +11,4 @@ A simple cli application to convert fahrenheit to celsius and the other way arou
 - cd into the src/ directory
 - Type cargo b -\-release in your terminal
 - cd into the target/release/ directory
-- Type ./met and execute the propram
+- Type ./metric_conversion and execute the propram
